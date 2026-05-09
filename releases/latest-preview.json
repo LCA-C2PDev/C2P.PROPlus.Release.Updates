@@ -1,7 +1,10 @@
 {
   "channel": "preview",
   "published": true,
+  "product": "Call2Prayer.PROPlus",
   "version": "2026.5.9.2",
+  "tag": "preview-v2026.5.9.2",
+  "packageAsset": "C2P.PROPlus.Update.v2026.5.9.2.zip",
   "releaseDateUtc": "2026-05-09T00:00:00Z",
   "manifestPath": "releases/v2026.5.9.2/C2P.PROPlus.Update.v2026.5.9.2.json",
   "releaseNotesPath": "releases/v2026.5.9.2/C2P.PROPlus.ReleaseNotes.v2026.5.9.2.md",

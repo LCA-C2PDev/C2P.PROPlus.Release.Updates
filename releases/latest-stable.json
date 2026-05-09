@@ -2,5 +2,8 @@
   "channel": "stable",
   "published": false,
   "version": null,
+  "tag": null,
+  "packageAsset": null,
+  "product": "Call2Prayer.PROPlus",
   "message": "No stable Call2Prayer.PROPlus update has been published yet."
 }
