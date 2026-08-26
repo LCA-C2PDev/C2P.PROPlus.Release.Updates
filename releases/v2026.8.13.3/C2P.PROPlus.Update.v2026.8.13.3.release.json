@@ -1,0 +1,11 @@
+{
+  "schema": "C2P.PROPlus.ReleaseUpdate/v1",
+  "channel": "stable",
+  "product": "Call2Prayer.PROPlus",
+  "version": "2026.8.13.3",
+  "tag": "v2026.8.13.3",
+  "packageAsset": "C2P.PROPlus.Update.v2026.8.13.3.zip",
+  "packageSha256": "B82A7E0DE0C5E8BBDDAAB52C36E41C7E57282409A151734F2F46EF22F6A4A0BC",
+  "informationalVersion": "v2026.8.13 - Build 26081303",
+  "releaseNotesPath": "releases/v2026.8.13.3/C2P.PROPlus.ReleaseNotes.v2026.8.13.3.md"
+}
