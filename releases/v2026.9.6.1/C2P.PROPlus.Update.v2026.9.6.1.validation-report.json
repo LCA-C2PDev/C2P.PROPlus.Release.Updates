@@ -1,0 +1,16 @@
+{
+  "isValid": true,
+  "packageId": "C2P.PROPlus.Update.v2026.9.6.1",
+  "version": "2026.9.6.1",
+  "minimumSupportedVersion": "2026.4.14.2",
+  "mainExecutable": "Call2Prayer.PROPlus.exe",
+  "fileCount": 482,
+  "packageSha256": "45594847746B3F72AAF1B8F124E711DE5ECD450FD93256F03446F8866CDCD79B",
+  "compatibilityUpdaterVersion": "2026.4.14.2",
+  "compatibilityValidationExitCode": 0,
+  "sandboxScenarios": {
+    "success": 0,
+    "badHashRejected": 22,
+    "unsafePathRejected": 23
+  }
+}
