@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.9.30.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.9.30.1` to the preview update channel
+- added licensed calendar scheduling with smoother handover between AudioManager and scheduled playback
+- coordinated optional USB relay timing with scheduled audio
+- added a user-facing About tab with version, preview highlights, and update information
+- retained stable version `2026.9.6.1` and the original stable installer
+
 ## 2026.9.6.1-stable
 
 - published `Call2Prayer.PROPlus` version `2026.9.6.1` to the stable channel
