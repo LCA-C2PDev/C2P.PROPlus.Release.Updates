@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026.10.1.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.10.1.1` to the preview update channel
+- opening the Scheduler workspace again reuses and activates its existing calendar window
+- retained stable version `2026.9.6.1` and the original stable installer
+
 ## 2026.9.30.1-preview
 
 - published `Call2Prayer PROPlus` version `2026.9.30.1` to the preview update channel
