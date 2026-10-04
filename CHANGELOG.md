@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026.10.4.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.10.4.1` to the preview update channel
+- added the installed-features and interface details About card plus Contact & Support links
+- added Fingerprint V2 license compatibility across the preview workflow
+- retained stable version `2026.9.6.1` and the original stable installer
+
 ## 2026.10.1.1-preview
 
 - published `Call2Prayer PROPlus` version `2026.10.1.1` to the preview update channel
