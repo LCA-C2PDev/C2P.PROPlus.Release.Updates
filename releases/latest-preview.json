@@ -2,10 +2,10 @@
   "channel": "preview",
   "published": true,
   "product": "Call2Prayer.PROPlus",
-  "version": "2026.10.4.1",
-  "tag": "preview-v2026.10.4.1",
-  "packageAsset": "C2P.PROPlus.Update.v2026.10.4.1.zip",
-  "manifestPath": "releases/v2026.10.4.1/C2P.PROPlus.Update.v2026.10.4.1.release.json",
-  "releaseNotesPath": "releases/v2026.10.4.1/C2P.PROPlus.ReleaseNotes.v2026.10.4.1.md",
-  "message": "Call2Prayer PROPlus 2026.10.4.1 is available on the preview channel."
+  "version": "2026.10.6.1",
+  "tag": "preview-v2026.10.6.1",
+  "packageAsset": "C2P.PROPlus.Update.v2026.10.6.1.zip",
+  "manifestPath": "releases/v2026.10.6.1/C2P.PROPlus.Update.v2026.10.6.1.release.json",
+  "releaseNotesPath": "releases/v2026.10.6.1/C2P.PROPlus.ReleaseNotes.v2026.10.6.1.md",
+  "message": "Call2Prayer PROPlus 2026.10.6.1 is available on the preview channel."
 }
