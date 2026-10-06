@@ -1,11 +1,11 @@
 {
   "channel": "stable",
   "published": true,
-  "version": "2026.9.6.1",
-  "tag": "v2026.9.6.1",
-  "packageAsset": "C2P.PROPlus.Update.v2026.9.6.1.zip",
+  "version": "2026.10.6.1",
+  "tag": "v2026.10.6.1",
+  "packageAsset": "C2P.PROPlus.Update.v2026.10.6.1.zip",
   "product": "Call2Prayer.PROPlus",
-  "manifestPath": "releases/v2026.9.6.1/C2P.PROPlus.Update.v2026.9.6.1.release.json",
-  "releaseNotesPath": "releases/v2026.9.6.1/C2P.PROPlus.ReleaseNotes.v2026.9.6.1.md",
-  "message": "Call2Prayer.PROPlus 2026.9.6.1 is available on the stable channel."
+  "manifestPath": "releases/v2026.10.6.1/C2P.PROPlus.Update.v2026.10.6.1.stable.release.json",
+  "releaseNotesPath": "releases/v2026.10.6.1/C2P.PROPlus.StableReleaseNotes.v2026.10.6.1.md",
+  "message": "Call2Prayer.PROPlus 2026.10.6.1 is available on the stable channel."
 }
