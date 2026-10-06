@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.10.6.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.10.6.1` to the preview update channel
+- fixed scheduled Athan recovery for qualifying audio-output failures with one retry inside the existing 10-second start grace
+- added explicit playback outcome/failure diagnostics and audio endpoint state details
+- retained Scheduler and Fingerprint V2 preview functionality
+- retained stable version `2026.9.6.1` and the original stable installer
+
+
 ## 2026.10.4.1-preview
 
 - published `Call2Prayer PROPlus` version `2026.10.4.1` to the preview update channel
