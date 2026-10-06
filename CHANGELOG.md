@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.10.6.1-stable
+
+- promoted the tested `2026.10.6.1` Preview source to the Stable application update channel
+- rebuilt the package with Stable informational version `v2026.10.6 - Build 26100601` and published it under tag `v2026.10.6.1`
+- retained the separate Preview package, tag, and feed pointer at `preview-v2026.10.6.1`
+- Stable package SHA-256: `3472C2E2E8300994264B192BF4FD87AA4D2C103753A38F82DCFA5F5460405EB1`
+- the separately distributed full installer remains at v2026.9.6.1
+
 ## 2026.10.6.1-preview
 
 - published `Call2Prayer PROPlus` version `2026.10.6.1` to the preview update channel
