@@ -5,14 +5,14 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 ## Current Status
 
 - stable channel is active
-- current stable version: `2026.10.6.1`
-- current stable tag: `v2026.10.6.1`
-- current stable package asset: `C2P.PROPlus.Update.v2026.10.6.1.zip`
+- current stable version: `2026.10.7.1`
+- current stable tag: `v2026.10.7.1`
+- current stable package asset: `C2P.PROPlus.Update.v2026.10.7.1.zip`
 - current preview version: `2026.10.6.1`
 - current preview tag: `preview-v2026.10.6.1`
 - current preview package asset: `C2P.PROPlus.Update.v2026.10.6.1.zip`
 - the separately distributed full installer remains at v2026.9.6.1
-- Preview and Stable use separate release tags and packages; both feeds advertise numeric version `2026.10.6.1`
+- Preview remains at `2026.10.6.1`; Stable has advanced to `2026.10.7.1`
 
 ## Structure
 
@@ -40,6 +40,12 @@ releases/
     C2P.PROPlus.Update.v2026.10.6.1.stable.release.json
     C2P.PROPlus.Update.v2026.10.6.1.stable.sha256.txt
     C2P.PROPlus.StableReleaseNotes.v2026.10.6.1.md
+  v2026.10.7.1/
+    C2P.PROPlus.Update.v2026.10.7.1.json
+    C2P.PROPlus.Update.v2026.10.7.1.release.json
+    C2P.PROPlus.Update.v2026.10.7.1.sha256.txt
+    C2P.PROPlus.Update.v2026.10.7.1.validation-report.json
+    C2P.PROPlus.ReleaseNotes.v2026.10.7.1.md
 ```
 
 ## Notes

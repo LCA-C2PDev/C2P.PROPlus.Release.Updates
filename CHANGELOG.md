@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.10.7.1-stable
+
+- released the Scheduler's opt-in continuation after the complete prayer workflow, with a soft-knee fade-in on resume
+- kept Prayer/Athan priority, the existing prayer business logic, and the separate Preview feed unchanged
+- passed 136/136 Release tests and isolated updater success, bad-hash, and unsafe-path checks
+- Stable package SHA-256: `34E5BC40DE889B45B58957547834EF373A4719B468B201BEB96CFF25B67C27F7`
+- the separately distributed full installer remains at v2026.9.6.1
+
 ## 2026.10.6.1-stable
 
 - promoted the tested `2026.10.6.1` Preview source to the Stable application update channel
