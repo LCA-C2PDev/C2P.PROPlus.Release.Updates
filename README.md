@@ -8,11 +8,12 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 - current stable version: `2026.10.7.1`
 - current stable tag: `v2026.10.7.1`
 - current stable package asset: `C2P.PROPlus.Update.v2026.10.7.1.zip`
-- current preview version: `2026.10.6.1`
-- current preview tag: `preview-v2026.10.6.1`
-- current preview package asset: `C2P.PROPlus.Update.v2026.10.6.1.zip`
+- current preview version: `2026.10.15.1`
+- current preview tag: `preview-v2026.10.15.1`
+- current preview package asset: `C2P.PROPlus.Update.v2026.10.15.1.zip`
 - the separately distributed full installer remains at v2026.9.6.1
-- Preview remains at `2026.10.6.1`; Stable has advanced to `2026.10.7.1`
+- Preview `2026.10.15.1` allows −25 to +100 minute offsets for Dhuhr and Asr; other prayer profiles, including Friday, remain at ±10 minutes
+- Preview and Stable channels remain separate; the separately distributed full installer remains at v2026.9.6.1
 
 ## Structure
 
@@ -46,6 +47,12 @@ releases/
     C2P.PROPlus.Update.v2026.10.7.1.sha256.txt
     C2P.PROPlus.Update.v2026.10.7.1.validation-report.json
     C2P.PROPlus.ReleaseNotes.v2026.10.7.1.md
+  v2026.10.15.1/
+    C2P.PROPlus.Update.v2026.10.15.1.json
+    C2P.PROPlus.Update.v2026.10.15.1.release.json
+    C2P.PROPlus.Update.v2026.10.15.1.sha256.txt
+    C2P.PROPlus.Update.v2026.10.15.1.validation-report.json
+    C2P.PROPlus.ReleaseNotes.v2026.10.15.1.md
 ```
 
 ## Notes
