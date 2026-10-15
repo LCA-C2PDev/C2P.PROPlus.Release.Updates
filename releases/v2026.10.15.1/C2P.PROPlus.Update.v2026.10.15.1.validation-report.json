@@ -1,0 +1,18 @@
+{
+  "version": "2026.10.15.1",
+  "packageSha256": "3E5E99B76FA9227EC266594E8D9A3DC432C1271EF26AE52A58E4AC4F19F52162",
+  "packageSizeBytes": 76443451,
+  "automatedTests": {
+    "configuration": "Release",
+    "passed": 138,
+    "failed": 0,
+    "skipped": 0
+  },
+  "packageCompatibility": "passed with previous Stable updater",
+  "isolatedUpdaterChecks": {
+    "applyExitCode": 0,
+    "badHashExitCode": 22,
+    "unsafePathExitCode": 23
+  },
+  "targetPcChecks": "pending: prayer offset selection, Athan timing, licensed relay timing, activation, and clean target-PC operation"
+}
