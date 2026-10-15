@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.10.15.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.10.15.1` to the preview update channel
+- expanded offsets to −25 through +100 minutes for Dhuhr and Asr only; other prayers, including Friday, remain at −10 through +10 minutes
+- highlighted the zero position on all prayer-offset faders with a taller gold tick
+- passed 138/138 Release tests, package compatibility validation, and isolated updater apply, bad-hash, and unsafe-path checks
+- Preview package SHA-256: `3E5E99B76FA9227EC266594E8D9A3DC432C1271EF26AE52A58E4AC4F19F52162`
+- Stable version `2026.10.7.1`, its package, and the stable feed remain unchanged
+
 ## 2026.10.7.1-stable
 
 - released the Scheduler's opt-in continuation after the complete prayer workflow, with a soft-knee fade-in on resume
