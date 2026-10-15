@@ -13,7 +13,7 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 - current preview package asset: `C2P.PROPlus.Update.v2026.10.15.1.zip`
 - the separately distributed full installer remains at v2026.9.6.1
 - Preview `2026.10.15.1` allows −25 to +100 minute offsets for Dhuhr and Asr; other prayer profiles, including Friday, remain at ±10 minutes
-- Preview and Stable channels remain separate; the separately distributed full installer remains at v2026.9.6.1
+- Preview and Stable channels remain separate
 
 ## Structure
 
