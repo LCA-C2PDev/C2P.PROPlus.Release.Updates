@@ -5,9 +5,10 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 ## Current Status
 
 - stable channel is active
-- current stable version: `2026.10.7.1`
-- current stable tag: `v2026.10.7.1`
-- current stable package asset: `C2P.PROPlus.Update.v2026.10.7.1.zip`
+- Major Stable 2026.10.20.1 corrects MP3 playlist progression, adds Scheduler PAUSE/PLAY/STOP and confirmed CANCEL CURRENT EVENT, and promotes the Dhuhr/Asr prayer-offset refinements
+- current stable version: `2026.10.20.1` (Major Stable)
+- current stable tag: `v2026.10.20.1`
+- current stable package asset: `C2P.PROPlus.Update.v2026.10.20.1.zip`
 - current preview version: `2026.10.15.1`
 - current preview tag: `preview-v2026.10.15.1`
 - current preview package asset: `C2P.PROPlus.Update.v2026.10.15.1.zip`
@@ -21,6 +22,12 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 releases/
   latest-stable.json
   latest-preview.json
+  v2026.10.20.1/
+    C2P.PROPlus.Update.v2026.10.20.1.json
+    C2P.PROPlus.Update.v2026.10.20.1.release.json
+    C2P.PROPlus.Update.v2026.10.20.1.sha256.txt
+    C2P.PROPlus.Update.v2026.10.20.1.validation-report.json
+    C2P.PROPlus.ReleaseNotes.v2026.10.20.1.md
   v2026.9.6.1/
     C2P.PROPlus.Update.v2026.9.6.1.json
     C2P.PROPlus.Update.v2026.9.6.1.release.json
