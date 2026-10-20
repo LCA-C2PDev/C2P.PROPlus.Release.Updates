@@ -1,0 +1,22 @@
+{
+  "version": "2026.10.20.1",
+  "releaseType": "major-stable",
+  "packageSha256": "687B19F6461EA53E508A19ABBC17474D91E0C820F45E5E231522ECC4B7EA8FCC",
+  "packageSizeBytes": 76447516,
+  "automatedTests": {
+    "configuration": "Release",
+    "skipReason": "Opt-in audible Scheduler runtime harness",
+    "skipped": 1,
+    "passed": 175,
+    "failed": 0
+  },
+  "packageCompatibility": "passed with previously distributed Stable updater 2026.4.14.2",
+  "isolatedUpdaterChecks": {
+    "badHashExitCode": 22,
+    "applyExitCode": 0,
+    "unsafePathExitCode": 23
+  },
+  "targetPcChecks": "Operator confirmed prior audible two-MP3 progression; new transport/cancel audio, physical relay timing, activation, and clean target-PC checks are not established by automated verification.",
+  "sourceRepository": "LCA-C2PDev/Call2Prayer.PROPlus",
+  "sourceCommit": "9c7e0f6f11abd28c8b273645da256c871b90bf4c"
+}
