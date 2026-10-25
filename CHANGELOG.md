@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026.10.25.1-preview
+
+- published `Call2Prayer PROPlus` version `2026.10.25.1` to the preview update channel
+- added per-module audio output routing for Athan Playback, AudioManager, and Scheduler
+- added routing UI headings matched to the modules' VU meter colors and filtered output lists to currently present devices
+- built the Release configuration and passed update package compatibility validation
+- Preview package SHA-256: `699BCD570FBFAA451E8BCCBF52806C385CB4F4C9F7875C989BEA042275656251`
+- Stable version `2026.10.20.1`, its package, and the stable feed remain unchanged
+
+
 ## 2026.10.15.1-preview
 
 - published `Call2Prayer PROPlus` version `2026.10.15.1` to the preview update channel
