@@ -1,0 +1,16 @@
+{
+  "version": "2026.10.26.1",
+  "releaseType": "preview",
+  "packageSha256": "87CD53F42DD3E7951FFCC89CC7ED5A3961DE1C195F07C8073F47315F88F07545",
+  "packageSizeBytes": 76460608,
+  "automatedTests": {
+    "configuration": "Release",
+    "skipReason": "Opt-in audible Scheduler runtime harness",
+    "skipped": 1,
+    "passed": 254,
+    "failed": 0
+  },
+  "packageCompatibility": "passed with previously distributed Stable updater 2026.4.14.2",
+  "targetPcChecks": "Site evaluation required for physical one-, two-, and five-channel relay mapping, switching timing, disconnect/reconnect, and local audio behavior.",
+  "stableBaseline": "2026.10.20.1"
+}
