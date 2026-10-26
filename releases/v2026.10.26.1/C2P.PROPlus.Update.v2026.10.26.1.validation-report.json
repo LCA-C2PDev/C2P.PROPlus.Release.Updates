@@ -10,7 +10,7 @@
     "passed": 254,
     "failed": 0
   },
-  "packageCompatibility": "passed with previously distributed Stable updater 2026.4.14.2",
+  "packageCompatibility": "passed with the Release-built updater package validator",
   "targetPcChecks": "Site evaluation required for physical one-, two-, and five-channel relay mapping, switching timing, disconnect/reconnect, and local audio behavior.",
   "stableBaseline": "2026.10.20.1"
 }
