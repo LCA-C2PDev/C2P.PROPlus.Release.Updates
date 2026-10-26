@@ -12,5 +12,8 @@
   },
   "packageCompatibility": "passed with the Release-built updater package validator",
   "targetPcChecks": "Site evaluation required for physical one-, two-, and five-channel relay mapping, switching timing, disconnect/reconnect, and local audio behavior.",
-  "stableBaseline": "2026.10.20.1"
+  "stableBaseline": "2026.10.20.1",
+  "sourceRepository": "LCA-C2PDev/Call2Prayer.PROPlus",
+  "sourceBranch": "codex/yoctopuce-relay-assignment",
+  "sourceCommit": "b415441"
 }
