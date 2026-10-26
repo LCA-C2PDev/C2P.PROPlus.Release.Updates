@@ -22,6 +22,12 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 releases/
   latest-stable.json
   latest-preview.json
+  v2026.10.26.1/
+    C2P.PROPlus.Update.v2026.10.26.1.json
+    C2P.PROPlus.Update.v2026.10.26.1.release.json
+    C2P.PROPlus.Update.v2026.10.26.1.sha256.txt
+    C2P.PROPlus.Update.v2026.10.26.1.validation-report.json
+    C2P.PROPlus.ReleaseNotes.v2026.10.26.1.md
   v2026.10.20.1/
     C2P.PROPlus.Update.v2026.10.20.1.json
     C2P.PROPlus.Update.v2026.10.20.1.release.json
