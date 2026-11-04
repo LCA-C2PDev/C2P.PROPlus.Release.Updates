@@ -1,0 +1,19 @@
+{
+  "version": "2026.11.4.1",
+  "releaseType": "preview",
+  "packageSha256": "BB35443BC58AAB1E06D6AA8E7BAD24D0219B38439BBE308DEE7B78ED15377436",
+  "packageSizeBytes": 76572031,
+  "automatedTests": {
+    "configuration": "Release",
+    "skipReason": "Opt-in audible Scheduler runtime harness",
+    "skipped": 1,
+    "passed": 264,
+    "failed": 0
+  },
+  "packageCompatibility": "passed with the 2026.10.26.1 Preview updater DLL validator invoked through dotnet",
+  "targetPcChecks": "Physical relay command outcomes, one-, two-, and five-channel layouts, beacon behavior, and site audio timing require evaluation on supported target hardware.",
+  "stableBaseline": "2026.10.20.1",
+  "sourceRepository": "LCA-C2PDev/Call2Prayer.PROPlus",
+  "sourceBranch": "codex/yoctopuce-relay-assignment",
+  "sourceCommit": "100d3d0"
+}
