@@ -1,0 +1,19 @@
+{
+  "version": "2026.11.27.1",
+  "releaseType": "preview",
+  "packageSha256": "4805A4D5F615B267BEF3CD4140A01CF527682A8CA50521F1062C63AEE7032B34",
+  "packageSizeBytes": 76576478,
+  "automatedTests": {
+    "configuration": "Release",
+    "skipReason": "Opt-in audible Scheduler runtime harness",
+    "skipped": 1,
+    "passed": 272,
+    "failed": 0
+  },
+  "packageCompatibility": "passed with the previously published Preview updater validator",
+  "targetPcChecks": "Verify normal daily log creation, month rollover, shutdown/restart continuity, missed-day recovery, and damaged-log recovery on a supported target PC.",
+  "stableBaseline": "2026.10.20.1",
+  "sourceRepository": "LCA-C2PDev/Call2Prayer.PROPlus",
+  "sourceBranch": "codex/preview-audit-log-continuity",
+  "sourceCommit": "6edd3c1"
+}

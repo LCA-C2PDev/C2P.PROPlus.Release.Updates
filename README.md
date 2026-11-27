@@ -9,11 +9,11 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 - current stable version: `2026.10.20.1` (Major Stable)
 - current stable tag: `v2026.10.20.1`
 - current stable package asset: `C2P.PROPlus.Update.v2026.10.20.1.zip`
-- current preview version: `2026.11.4.1`
-- current preview tag: `preview-v2026.11.4.1`
-- current preview package asset: `C2P.PROPlus.Update.v2026.11.4.1.zip`
+- current preview version: `2026.11.27.1`
+- current preview tag: `preview-v2026.11.27.1`
+- current preview package asset: `C2P.PROPlus.Update.v2026.11.27.1.zip`
 - the separately distributed full installer remains at v2026.9.6.1
-- Preview `2026.11.4.1` adds per-command Yoctopuce relay and beacon audit logging and corrects daily/Friday Athan skip behavior. It retains multi-channel relay assignment and builds on Preview `2026.10.26.1`.
+- Preview `2026.11.27.1` adds permanent monthly JSON audit logs, daily continuity entries, and crash recovery. It builds on Preview `2026.11.4.1`.
 - Preview and Stable channels remain separate
 
 ## Structure
@@ -22,6 +22,12 @@ This repository hosts release metadata for `Call2Prayer.PROPlus` application upd
 releases/
   latest-stable.json
   latest-preview.json
+  v2026.11.27.1/
+    C2P.PROPlus.Update.v2026.11.27.1.json
+    C2P.PROPlus.Update.v2026.11.27.1.release.json
+    C2P.PROPlus.Update.v2026.11.27.1.sha256.txt
+    C2P.PROPlus.Update.v2026.11.27.1.validation-report.json
+    C2P.PROPlus.ReleaseNotes.v2026.11.27.1.md
   v2026.11.4.1/
     C2P.PROPlus.Update.v2026.11.4.1.json
     C2P.PROPlus.Update.v2026.11.4.1.release.json
